@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psaisambasiva.github.io/loka-staffing.github.io/sitemap.xml
